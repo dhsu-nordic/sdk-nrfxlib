@@ -1,0 +1,9 @@
+{
+  "lmac_patch": "lmac_patch.bin",
+  "lmac_origin": "0xFFB74",
+  "lmac_size": 448,
+  "umac_patch": "umac_patch.bin",
+  "umac_origin": "0xFFD34",
+  "umac_size": 716,
+  "patch_version": "0.9.0"
+}
